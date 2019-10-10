@@ -1,0 +1,16 @@
+body {
+   background-color: #CCCCCC;   
+}
+
+h1 {
+   text-align: center;
+}
+
+h2 {
+   margin-bottom: 0.25em;
+}
+
+.quote {
+   margin-top: 0.25em;
+   padding-left: 25px;
+}
