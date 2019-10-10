@@ -1,9 +1,19 @@
-body {
-   background-color: #CCCCCC;   
+#wrapper {
+   padding: 15px 35px 35px 35px;
+   width: 85%;
+   margin: auto;
+   background-color: #fff;
+   border-radius: 20px;
 }
 
-h1 {
+body {
+   background-color: #618CB6;   
+}
+
+#wrapper h1 {
+   font-family: Times New Roman, sans-serif;
    text-align: center;
+   font-size: 250%;
 }
 
 h2 {
@@ -13,4 +23,5 @@ h2 {
 .quote {
    margin-top: 0.25em;
    padding-left: 25px;
+   font-size: 1.1em;
 }
